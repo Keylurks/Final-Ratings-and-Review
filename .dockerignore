@@ -1,0 +1,35 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+=======
+# Maven
+target/
+
+# IDE
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
